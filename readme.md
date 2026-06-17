@@ -47,9 +47,12 @@ The dataset was cleaned and prepared by:
 
 ## Key Findings
 
-- Reading volume remained stable between 2024 and 2025 (28 and 27 books respectively).
+- Read 58 books between 2024 and 2026.
+- Reading volume remained stable between 2024 and 2025, with 28 and 27 books read respectively.
 - Total pages read decreased from 7,466 in 2024 to 6,508 in 2025.
-- Average book rating exceeded 4 stars.
+- Average book rating was 4.04/5.
+- August 2024 was the most active reading month, with 8 books completed.
+- The longest book read was *Dune* (704 pages), while the shortest was *The Communist Manifesto* (50 pages).
 - Most books read were under 300 pages.
 - Reading activity was concentrated in specific months rather than evenly distributed throughout the year.
 
