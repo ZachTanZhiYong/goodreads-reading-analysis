@@ -15,8 +15,7 @@ The goal of this project was to perform exploratory data analysis and identify t
 
 ## Dataset
 
-Source: Goodreads Library Export
-For privacy reasons, personal notes and review text were removed from the dataset before analysis.
+Source: Goodreads Library Export, for privacy reasons, personal notes and review text were removed from the dataset before analysis.
 
 Key fields used:
 - Title
@@ -56,6 +55,7 @@ The dataset was cleaned and prepared by:
 
 ## Visualisations
 
+The following visualisations summarise reading volume, reading patterns, and rating behaviour between 2024 and 2026.
 <table>
 <tr>
 <td align="center">
@@ -76,17 +76,17 @@ The dataset was cleaned and prepared by:
 
 <tr>
 <td align="center">
-<b>Books Read in 2024</b><br>
+<b>Monthly Reading Activity (2024)</b><br>
 <img src="Images/booksread_2024.png" width="350">
 </td>
 
 <td align="center">
-<b>Books Read in 2025</b><br>
+<b>Monthly Reading Activity (2025)</b><br>
 <img src="Images/booksread_2025.png" width="350">
 </td>
 
 <td align="center">
-<b>Books Read in 2026</b><br>
+<b>Monthly Reading Activity (2026)</b><br>
 <img src="Images/booksread_2026.png" width="350">
 </td>
 </tr>
