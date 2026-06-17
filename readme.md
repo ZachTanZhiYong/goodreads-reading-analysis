@@ -64,9 +64,15 @@ Possible extensions to this project include:
 
 ## Project Structure
 
-```text
 goodreads-reading-analysis/
 │
 ├── goodreads_analysis.ipynb
 ├── goodreads_library_export.csv
 ├── README.md
+└── Images/
+    ├── books_per_year.png
+    ├── pages_per_year.png
+    ├── booksread_2024.png
+    ├── booksread_2025.png
+    ├── booksread_2026.png
+    └── ratings.png
