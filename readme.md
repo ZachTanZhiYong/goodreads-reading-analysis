@@ -56,29 +56,40 @@ The dataset was cleaned and prepared by:
 
 ## Visualisations
 
-### Books Read Per Year
+## Visualisations
 
-![Books Read Per Year](Images/books_per_year.png)
+<table>
+<tr>
+<td>
+<img src="Images/books_per_year.png" width="400">
+</td>
+<td>
+<img src="Images/pages_per_year.png" width="400">
+</td>
+</tr>
+</table>
 
-### Pages Read Per Year
+<table>
+<tr>
+<td>
+<img src="Images/ratings.png" width="400">
+</td>
+<td>
+<img src="Images/booksread_2024.png" width="400">
+</td>
+</tr>
+</table>
 
-![Pages Read Per Year](Images/pages_per_year.png)
-
-### Rating Distribution
-
-![Rating Distribution](Images/ratings.png)
-
-### Monthly Reading Activity (2024)
-
-![Books Read in 2024](Images/booksread_2024.png)
-
-### Monthly Reading Activity (2025)
-
-![Books Read in 2025](Images/booksread_2025.png)
-
-### Monthly Reading Activity (2026)
-
-![Books Read in 2026](Images/booksread_2026.png)
+<table>
+<tr>
+<td>
+<img src="Images/booksread_2025.png" width="400">
+</td>
+<td>
+<img src="Images/booksread_2026.png" width="400">
+</td>
+</tr>
+</table>
 
 ## Future Improvements
 
