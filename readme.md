@@ -87,7 +87,7 @@ The dataset was cleaned and prepared by:
 
 <td align="center">
 <b>Books Read in 2026</b><br>
-<img src="Images/booksread_2026.png">
+<img src="Images/booksread_2026.png" width="350">
 </td>
 </tr>
 </table>
