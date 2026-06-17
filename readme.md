@@ -56,37 +56,38 @@ The dataset was cleaned and prepared by:
 
 ## Visualisations
 
-## Visualisations
-
 <table>
 <tr>
-<td>
-<img src="Images/books_per_year.png" width="400">
+<td align="center">
+<b>Books Read Per Year</b><br>
+<img src="Images/books_per_year.png" width="300">
 </td>
-<td>
-<img src="Images/pages_per_year.png" width="400">
+
+<td align="center">
+<b>Pages Read Per Year</b><br>
+<img src="Images/pages_per_year.png" width="300">
+</td>
+
+<td align="center">
+<b>Rating Distribution</b><br>
+<img src="Images/ratings.png" width="300">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
-<td>
-<img src="Images/ratings.png" width="400">
+<td align="center">
+<b>Books Read in 2024</b><br>
+<img src="Images/booksread_2024.png" width="300">
 </td>
-<td>
-<img src="Images/booksread_2024.png" width="400">
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td>
-<img src="Images/booksread_2025.png" width="400">
+<td align="center">
+<b>Books Read in 2025</b><br>
+<img src="Images/booksread_2025.png" width="300">
 </td>
-<td>
-<img src="Images/booksread_2026.png" width="400">
+
+<td align="center">
+<b>Books Read in 2026</b><br>
+<img src="Images/booksread_2026.png" width="300">
 </td>
 </tr>
 </table>
