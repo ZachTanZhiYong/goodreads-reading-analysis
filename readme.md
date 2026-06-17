@@ -54,6 +54,32 @@ The dataset was cleaned and prepared by:
 - Most books read were under 300 pages.
 - Reading activity was concentrated in specific months rather than evenly distributed throughout the year.
 
+## Visualisations
+
+### Books Read Per Year
+
+![Books Read Per Year](Images/books_per_year.png)
+
+### Pages Read Per Year
+
+![Pages Read Per Year](Images/pages_per_year.png)
+
+### Rating Distribution
+
+![Rating Distribution](Images/ratings.png)
+
+### Monthly Reading Activity (2024)
+
+![Books Read in 2024](Images/booksread_2024.png)
+
+### Monthly Reading Activity (2025)
+
+![Books Read in 2025](Images/booksread_2025.png)
+
+### Monthly Reading Activity (2026)
+
+![Books Read in 2026](Images/booksread_2026.png)
+
 ## Future Improvements
 
 Possible extensions to this project include:
