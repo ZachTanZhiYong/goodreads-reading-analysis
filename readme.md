@@ -52,7 +52,7 @@ The dataset was cleaned and prepared by:
 - Total pages read decreased from 7,466 in 2024 to 6,508 in 2025.
 - Average book rating exceeded 4 stars.
 - Most books read were under 300 pages.
-- Reading activity was concentrated in specific months rather than evenly distributed throughout the year.s
+- Reading activity was concentrated in specific months rather than evenly distributed throughout the year.
 
 ## Visualisations
 
@@ -87,7 +87,7 @@ The dataset was cleaned and prepared by:
 
 <td align="center">
 <b>Books Read in 2026</b><br>
-<img src="Images/booksread_2026.png" width="350">
+<img src="Images/booksread_2026.png">
 </td>
 </tr>
 </table>
