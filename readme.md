@@ -60,34 +60,34 @@ The dataset was cleaned and prepared by:
 <tr>
 <td align="center">
 <b>Books Read Per Year</b><br>
-<img src="Images/books_per_year.png" width="300">
+<img src="Images/books_per_year.png" width="350">
 </td>
 
 <td align="center">
 <b>Pages Read Per Year</b><br>
-<img src="Images/pages_per_year.png" width="300">
+<img src="Images/pages_per_year.png" width="350">
 </td>
 
 <td align="center">
 <b>Rating Distribution</b><br>
-<img src="Images/ratings.png" width="300">
+<img src="Images/ratings.png" width="350">
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>Books Read in 2024</b><br>
-<img src="Images/booksread_2024.png" width="300">
+<img src="Images/booksread_2024.png" width="350">
 </td>
 
 <td align="center">
 <b>Books Read in 2025</b><br>
-<img src="Images/booksread_2025.png" width="300">
+<img src="Images/booksread_2025.png" width="350">
 </td>
 
 <td align="center">
 <b>Books Read in 2026</b><br>
-<img src="Images/booksread_2026.png" width="300">
+<img src="Images/booksread_2026.png" width="350">
 </td>
 </tr>
 </table>
